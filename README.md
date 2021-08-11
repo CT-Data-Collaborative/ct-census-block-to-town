@@ -1,6 +1,6 @@
 # Connecticut 2010 and 2020 Census Block to Town Crosswalk
 
-This repository contains crosswalks between CT census blocks (smallest geographical units used by the US Census) and towns in Connecticut for 2010 and 2020 Census.
+This repository contains crosswalks between CT census blocks (smallest geographical units used by the US Census) and towns in Connecticut for 2010 and 2020 Census. Files are available in CSV and Excel formats.
 
 * The 2010 crosswalk (`2010/block2town-2010.csv`) contains 67,578 blocks.
 * The 2020 crosswalk (`2020/block2town-2020.csv`) contains 49,926 blocks.
