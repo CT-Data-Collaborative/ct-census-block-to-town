@@ -24,7 +24,7 @@ To prevent Excel from transforming FIPS codes to numbers automatically
 
 
 ### How it was generated
-In QGIS, open census block boundaries, calculate their centroids, and perform nearest neighbor spatial join
+In QGIS, open census block boundaries, generate a random point inside polygon (use `Point on surface` function, not centroid to ensure they fall within town boundaries), and perform nearest neighbor spatial join
 (NNJoin plugin) to assign the "nearest" town.
 
 ### Source datasets
